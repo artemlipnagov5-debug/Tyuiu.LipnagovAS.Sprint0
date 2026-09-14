@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.37614.0 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12201.205 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LipnagovAS.Sprint0.Task0.V0", "Tyuiu.LipnagovAS.Sprint0.Task0.V0\Tyuiu.LipnagovAS.Sprint0.Task0.V0.csproj", "{1B51F6FA-D7D2-4DFF-BD6B-647300C0A9D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{02EF7975-0A05-4924-B982-F63EFD50862A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LipnagovAS.Sprint0.Task1.V0", "ConsoleApp1\Tyuiu.LipnagovAS.Sprint0.Task1.V0.csproj", "{020B801D-51F6-4DED-9C6E-8AA392EC2C6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{1B51F6FA-D7D2-4DFF-BD6B-647300C0A9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B51F6FA-D7D2-4DFF-BD6B-647300C0A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B51F6FA-D7D2-4DFF-BD6B-647300C0A9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020B801D-51F6-4DED-9C6E-8AA392EC2C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020B801D-51F6-4DED-9C6E-8AA392EC2C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020B801D-51F6-4DED-9C6E-8AA392EC2C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020B801D-51F6-4DED-9C6E-8AA392EC2C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1B51F6FA-D7D2-4DFF-BD6B-647300C0A9D7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{020B801D-51F6-4DED-9C6E-8AA392EC2C6E} = {02EF7975-0A05-4924-B982-F63EFD50862A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24CE5057-4D3B-441F-89F8-5CE500604559}
